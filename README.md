@@ -37,6 +37,8 @@
 - **[Jasper](https://www.jasper.ai/)** - AI-powered content generation for blog posts, ads, and more.
 - **[Hemingway Editor](https://hemingwayapp.com/)** - A tool to improve the clarity and readability of your content.
 - **[Lumen5](https://www.lumen5.com/)** - A platform for turning blog posts into engaging videos.
+- **[Cobalt Studio Landing Page Copy Generator](https://techchenko.github.io/cobaltstudio-products/tools/landing-page-copy-generator/)** - Free no-signup tool to generate landing page sections (hero, benefits, FAQ, CTAs).
+- **[Cobalt Studio Templates Hub](https://techchenko.github.io/cobaltstudio-products/files/)** - Free copy/paste templates for marketing and client comms (kickoff emails, follow-ups, simple briefs).
 
 ## Content Distribution Platforms
 
