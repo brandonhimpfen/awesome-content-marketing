@@ -53,6 +53,7 @@
 - **[Surfer SEO](https://surferseo.com/)** - A tool for optimizing content based on data-driven recommendations.
 - **[Ahrefs](https://ahrefs.com/)** - A suite of tools for content marketing and SEO.
 - **[AnswerThePublic](https://answerthepublic.com/)** - A tool for finding popular content topics and questions.
+- **[Rank4AI](https://rank4ai.co.uk/)** - AI search visibility platform for optimizing how content appears in AI-generated answers across ChatGPT, Gemini, Perplexity and Google AI Overviews.
 
 ## Analytics and Tracking
 
