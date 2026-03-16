@@ -42,6 +42,7 @@
 
 - **[Medium](https://medium.com/)** - A platform for publishing and distributing written content.
 - **[Substack](https://substack.com/)** - A newsletter platform for reaching your audience directly.
+- **[JustBlogged](https://justblogged.com/)** - A no-setup blogging platform with built-in SEO, custom domains, and beautiful themes. Free plan available.
 - **[LinkedIn Articles](https://www.linkedin.com/)** - A professional platform for distributing thought leadership content.
 - **[Buffer](https://buffer.com/)** - A tool for scheduling and sharing content on social media.
 - **[Hootsuite](https://hootsuite.com/)** - A social media management tool for distributing and tracking content.
