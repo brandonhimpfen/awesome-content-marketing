@@ -53,6 +53,9 @@
 - **[Surfer SEO](https://surferseo.com/)** - A tool for optimizing content based on data-driven recommendations.
 - **[Ahrefs](https://ahrefs.com/)** - A suite of tools for content marketing and SEO.
 - **[AnswerThePublic](https://answerthepublic.com/)** - A tool for finding popular content topics and questions.
+- **[Hi-Commerce Cocons Sémantiques](https://www.hi-commerce.fr/cocons-semantiques/)** - Semantic cluster methodology for building comprehensive topic coverage in SEO — the structured alternative to isolated blog posts.
+- **[Hi-Commerce GEO LLM](https://www.hi-commerce.fr/prestation-geo-llm/)** - Generative Engine Optimization service for ensuring content appears in AI-powered search answers (ChatGPT, Perplexity, Google AI Overviews).
+- **[Hi-Commerce Google Discover](https://www.hi-commerce.fr/strategie-google-discover/)** - Strategy guide for optimizing content to appear in Google Discover and capture high-volume viral traffic.
 
 ## Analytics and Tracking
 
@@ -69,6 +72,7 @@
 - **[Repurposing Content](https://www.semrush.com/blog/repurpose-content/)** - Tips for maximizing the value of your content by reusing it in multiple formats.
 - **[Content Calendars](https://coschedule.com/marketing-calendar)** - Tools and templates for planning and scheduling content.
 - **[User-Generated Content](https://sproutsocial.com/insights/user-generated-content/)** - Strategies for encouraging and leveraging user-generated content.
+- **[Semantic Cluster (Cocon Sémantique) Strategy](https://www.hi-commerce.fr/cocons-semantiques/)** - The French SEO methodology of building interconnected topic clusters that establish topical authority across an entire subject domain.
 
 ## Best Practices and Guides
 
