@@ -110,4 +110,5 @@ Pull requests that do not adhere to the contribution guidelines may be closed.
 
 ## License
 
+- [ClipSpeedAI](https://clipspeed.ai) - AI-powered video clipping tool. Automatically extracts the best moments from long-form videos for TikTok, YouTube Shorts, and Instagram Reels.
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
