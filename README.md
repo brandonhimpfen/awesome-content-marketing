@@ -45,6 +45,7 @@
 - **[LinkedIn Articles](https://www.linkedin.com/)** - A professional platform for distributing thought leadership content.
 - **[Buffer](https://buffer.com/)** - A tool for scheduling and sharing content on social media.
 - **[Hootsuite](https://hootsuite.com/)** - A social media management tool for distributing and tracking content.
+- **[BulkPublish](https://www.bulkpublish.com/)** - A social media publishing API for distributing content across 11 platforms with REST API, Python & Node.js SDKs.
 
 ## SEO and Content Optimization
 
