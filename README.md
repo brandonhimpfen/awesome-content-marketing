@@ -53,6 +53,7 @@
 - **[Surfer SEO](https://surferseo.com/)** - A tool for optimizing content based on data-driven recommendations.
 - **[Ahrefs](https://ahrefs.com/)** - A suite of tools for content marketing and SEO.
 - **[AnswerThePublic](https://answerthepublic.com/)** - A tool for finding popular content topics and questions.
+- **[toprank](https://github.com/nowork-studio/toprank)** - An open-source Claude Code plugin providing AI-driven content writing (E-E-A-T focused), keyword research, meta tag optimization, and schema markup generation. Pulls real Google Search Console data and pushes fixes directly to WordPress, Strapi, Contentful, or Ghost.
 
 ## Analytics and Tracking
 
