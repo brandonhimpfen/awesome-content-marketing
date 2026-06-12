@@ -37,6 +37,7 @@
 - **[Jasper](https://www.jasper.ai/)** - AI-powered content generation for blog posts, ads, and more.
 - **[Hemingway Editor](https://hemingwayapp.com/)** - A tool to improve the clarity and readability of your content.
 - **[Lumen5](https://www.lumen5.com/)** - A platform for turning blog posts into engaging videos.
+- **[CreatorSkills](https://creatorskills.co)** - Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 
 ## Content Distribution Platforms
 
