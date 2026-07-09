@@ -53,6 +53,7 @@
 - **[Surfer SEO](https://surferseo.com/)** - A tool for optimizing content based on data-driven recommendations.
 - **[Ahrefs](https://ahrefs.com/)** - A suite of tools for content marketing and SEO.
 - **[AnswerThePublic](https://answerthepublic.com/)** - A tool for finding popular content topics and questions.
+- **[AnswerLens](https://app.sfdj.net/)** - Audits public B2B SaaS website evidence for pricing, proof, docs, and crawl basics before content fixes are scoped.
 
 ## Analytics and Tracking
 
