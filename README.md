@@ -69,6 +69,7 @@
 - **[Repurposing Content](https://www.semrush.com/blog/repurpose-content/)** - Tips for maximizing the value of your content by reusing it in multiple formats.
 - **[Content Calendars](https://coschedule.com/marketing-calendar)** - Tools and templates for planning and scheduling content.
 - **[User-Generated Content](https://sproutsocial.com/insights/user-generated-content/)** - Strategies for encouraging and leveraging user-generated content.
+- **[Daily Viral Video Agent Workflow](https://github.com/shawnsong530/viral-video-agent-workflow)** - An open agent workflow for automatically scanning daily social video trends, mining remix references, scoring content fit, and preparing platform-native briefs for short-form social content.
 
 ## Best Practices and Guides
 
