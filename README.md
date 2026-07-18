@@ -79,6 +79,7 @@
 - **[Content Distribution Tactics](https://blog.hubspot.com/marketing/content-distribution-strategy)** - How to effectively share your content across platforms.
 
 ## Open-Source Tools
+- [X (Twitter) Marketing Skills](https://github.com/sergebulaev/x-skills) – Open-source Claude Code and Codex skills to write tweets and threads, extract hooks, and plan content, with corpus-validated hook formulas. MIT.
 
 - **[Ghost](https://ghost.org/)** - An open-source content management system for blogs and websites.
 - **[Hugo](https://gohugo.io/)** - A static site generator for creating and managing content.
