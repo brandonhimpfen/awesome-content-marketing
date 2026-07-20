@@ -45,6 +45,7 @@
 - **[LinkedIn Articles](https://www.linkedin.com/)** - A professional platform for distributing thought leadership content.
 - **[Buffer](https://buffer.com/)** - A tool for scheduling and sharing content on social media.
 - **[Hootsuite](https://hootsuite.com/)** - A social media management tool for distributing and tracking content.
+- **[Publora](https://publora.com)** - Schedule and publish to 10+ social platforms (LinkedIn, X, Instagram, Threads, TikTok, YouTube, Facebook, Bluesky, Mastodon, Telegram) via REST API or MCP server. Built for AI agents.
 
 ## SEO and Content Optimization
 
