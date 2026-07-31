@@ -81,6 +81,7 @@
 ## Open-Source Tools
 
 - **[Ghost](https://ghost.org/)** - An open-source content management system for blogs and websites.
+- **[Humanize-Text](https://github.com/lynote-ai/humanize-text)** - An open-source Python toolkit for improving the readability and natural cadence of AI-assisted drafts.
 - **[Hugo](https://gohugo.io/)** - A static site generator for creating and managing content.
 - **[Jekyll](https://jekyllrb.com/)** - A static site generator focused on simplicity and flexibility.
 - **[Pelican](https://getpelican.com/)** - A static site generator written in Python for content-focused sites.
