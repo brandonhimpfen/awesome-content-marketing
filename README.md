@@ -37,7 +37,7 @@
 - **[Jasper](https://www.jasper.ai/)** - AI-powered content generation for blog posts, ads, and more.
 - **[Hemingway Editor](https://hemingwayapp.com/)** - A tool to improve the clarity and readability of your content.
 - **[Lumen5](https://www.lumen5.com/)** - A platform for turning blog posts into engaging videos.
-- [Autoposting](https://autoposting.ai) - AI social media manager: generates posts in your own voice, clips long video, builds carousels, and schedules to X, LinkedIn, Instagram, Threads and YouTube
+- **[Autoposting](https://autoposting.ai)** - An AI social media manager that writes posts in your voice, clips video, and schedules across networks.
 
 ## Content Distribution Platforms
 
