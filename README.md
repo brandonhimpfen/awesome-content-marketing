@@ -45,6 +45,7 @@
 - **[LinkedIn Articles](https://www.linkedin.com/)** - A professional platform for distributing thought leadership content.
 - **[Buffer](https://buffer.com/)** - A tool for scheduling and sharing content on social media.
 - **[Hootsuite](https://hootsuite.com/)** - A social media management tool for distributing and tracking content.
+- **[Mentioned](https://mentioned.to)** - A managed service that distributes content into Reddit discussions ranking on Google for your keywords.
 
 ## SEO and Content Optimization
 
