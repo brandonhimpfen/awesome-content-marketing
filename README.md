@@ -43,6 +43,7 @@
 - **[Medium](https://medium.com/)** - A platform for publishing and distributing written content.
 - **[Substack](https://substack.com/)** - A newsletter platform for reaching your audience directly.
 - **[LinkedIn Articles](https://www.linkedin.com/)** - A professional platform for distributing thought leadership content.
+- **[BulkPublish](https://www.bulkpublish.com/)** - An API and MCP server for AI agents to schedule and publish social media content in bulk.
 - **[Buffer](https://buffer.com/)** - A tool for scheduling and sharing content on social media.
 - **[Hootsuite](https://hootsuite.com/)** - A social media management tool for distributing and tracking content.
 
