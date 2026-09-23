@@ -11,6 +11,7 @@
 > A curated list of tools, platforms, strategies, and resources for **content marketing**, including content creation, distribution, analytics, and optimization.
 
 ## Contents
+- [ReelWorkshop](https://reelworkshop.com) - Remix your clips into short-form compilations for Reels, Shorts, TikTok, and Facebook.
 
 - [General Resources](#general-resources)
 - [Content Creation Tools](#content-creation-tools)
