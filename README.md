@@ -38,6 +38,7 @@
 - **[Jasper](https://www.jasper.ai/)** - AI-powered content generation for blog posts, ads, and more.
 - **[Hemingway Editor](https://hemingwayapp.com/)** - A tool to improve the clarity and readability of your content.
 - **[Lumen5](https://www.lumen5.com/)** - A platform for turning blog posts into engaging videos.
+- **[ReelWorkshop](https://reelworkshop.com/)** - Browser compilation maker: import your own clips, arrange/trim, preview, and export vertical 9:16 H.264. Edit free; finished export on Starter.
 
 ## Content Distribution Platforms
 
