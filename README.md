@@ -38,6 +38,7 @@
 - **[Jasper](https://www.jasper.ai/)** - AI-powered content generation for blog posts, ads, and more.
 - **[Hemingway Editor](https://hemingwayapp.com/)** - A tool to improve the clarity and readability of your content.
 - **[Lumen5](https://www.lumen5.com/)** - A platform for turning blog posts into engaging videos.
+- **[Clips Kitty](https://github.com/ColinGPT9/clips-studio)** - A free, open-source desktop app that turns long videos, streams and podcasts into captioned vertical clips for Shorts, Reels and TikTok.
 
 ## Content Distribution Platforms
 
